@@ -1,4 +1,12 @@
 ### Hi there 👋
+I am Szymon - developer and BIM specialist.
+
+- :computer: I'am interested in React and TypeScript.
+- 🌱 Currently learning Next.js
+- ⚡ Enthusiast of life and learning process. 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szymonkwak&layout=compact&theme=slateorange)
 
 <!--
 **szymonkwak/szymonkwak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +14,6 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
