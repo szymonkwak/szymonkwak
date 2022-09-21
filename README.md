@@ -1,10 +1,3 @@
-### Hi there 👋
-I am Szymon - developer and BIM specialist.
-
-- :computer: I'am interested in React and TypeScript.
-- 🌱 Currently learning Next.js
-- ⚡ Enthusiast of life and learning process. 
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=szymonkwak&layout=compact&theme=slateorange)
 
